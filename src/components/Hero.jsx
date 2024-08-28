@@ -2,7 +2,7 @@ import profilePic from "../assets/pic1a.jpg"
 import {HERO_CONTENT} from "../constants"
 const Hero = () => {
   return (
-    <div className="border-b border-pink-950 pb-4 lg:mb-35 mt-50">
+    <div className="border-b border-pink-600 pb-4 lg:mb-35">
         <div className="flex flex-wrap">
             <div className="w-full lg:w-1/2">
                 <div className="flex flex-col items-center lg:items-start">
